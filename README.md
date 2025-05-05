@@ -4,7 +4,7 @@ Submitted by: Shruti Senthilram
 
 ColorChanger is an app that changes colors with the press of a button.
 
-Time spent: 1 hour spent in total
+Time spent: 2 hour spent in total
 
 ## Required Features
 
@@ -19,7 +19,7 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 
 [Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
-## App Brainstorming (Step 4)
+## App Brainstorming 
 
 Favorite Applications: 
 1. Instagram: I love the location of all the buttons on instagram, I think it's designed very well with user experience in mind.
