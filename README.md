@@ -1,16 +1,17 @@
-# IOS101-Prework-CodePath 
-Submitted by: Shruti
+# Prework - IOS101 CodePath
 
-ColorChanger is an app that 
+Submitted by: Shruti Senthilram
 
-Time spent: **X** hours spent in total
+ColorChanger is an app that changes colors with the press of a button.
+
+Time spent: 1 hour spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] Users are see a screen with three labels and a button
-- [ ] Tapping the button changes the screen color to a random color
+- [x] Users are see a screen with three labels and a button
+- [x] Tapping the button changes the screen color to a random color
  
 ## Video Walkthrough
 
@@ -20,13 +21,25 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 
 ## App Brainstorming (Step 4)
 
+Favorite Applications: 
+1. Instagram: I love the location of all the buttons on instagram, I think it's designed very well with user experience in mind.
+2. Stardust: It's a period tracking app, and I think the designers of the app did a very good job with the overall aesthetic and theme .
+3. Notion: I like the functionality of the application.
+
+I would like to make an app about financial literacy. As a new college student, having a good sense of financial literacy is so important. 
+However, it's hard to find one good resource and get all your information from there. With a fiancial literacy app, it would be easier for people to 
+access this informaiton. This would include a lot of different information not only about money management, but also investment and more.
+
 ## Notes
 
 Describe any challenges encountered while building the app.
 
+It took me some time to adjust to the different structure of Xcode because I didnt know what all the features did. 
+However, after working on the prework, I think I got a bit more adjusted to it. 
+
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2025 Shruti
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
